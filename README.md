@@ -1,4 +1,4 @@
-# OSS-Fuzz - Continuous Fuzzing for Open Source Software
+# OSS-Fuzz - Continuous Fuzzing for Open Source Soft ware
 
 > *Status*: Beta. We are now accepting applications from widely-used open source projects.
 
